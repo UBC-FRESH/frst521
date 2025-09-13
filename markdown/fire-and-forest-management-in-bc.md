@@ -44,9 +44,9 @@
 ---
 
 ## Infographic (Mermaid Diagram)  
-f
+
 ```mermaid
-graph TD
+flowchart TD
     A[Wildfire in BC Forest Management]:::center
 
     subgraph Legislation
