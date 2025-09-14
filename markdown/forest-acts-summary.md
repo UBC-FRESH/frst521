@@ -89,7 +89,6 @@ Recent changes to all three sets of laws reflect a policy shift towards higher p
 
 
 ## Further Resources  
-
 - [Forest Act Full Legal Document](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96157_00)
 - [Forest and Range Practices Act (FRPA) Full Legal Document](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/00_02069_01)
 - [Wildfire Act Full Legal Document](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/04031_01)

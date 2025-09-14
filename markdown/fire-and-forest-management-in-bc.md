@@ -96,5 +96,5 @@ graph LR
     GovernanceHistory --> A
     Strategies --> A
 
-    classDef center fill:#ffcc99,stroke:#333,stroke-width:2px;
+    classDef center stroke:#11,stroke-width:4px;
 ```
