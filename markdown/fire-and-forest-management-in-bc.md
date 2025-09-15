@@ -12,23 +12,22 @@
 - **Forest and Range Practices Act (FRPA, 2004):** Sets rules for forest management on Crown lands. Fire is not yet a core value but reforms are underway.  
 - **BC Wildfire Service (BCWS):** Leads wildfire management (prevention, preparedness, response, recovery). Organized into six regional Fire Centres.  
 - **Ministry of Forests:** Responsible for forest policy and land use planning.  
-- **First Nations & Communities:** Historically practiced fire stewardship; now increasingly recognized as essential partners in proactive fire governance.  
+- **First Nations:** Historically governed fire as part of broader land stewardship; increasingly acting as rightsholders and partners in proactive management.
+- **Communities:** Municipalities and rural communities (part of Regional Districts) with important role supporting proactive management.
 
 
 ## Historical Shifts in Fire Governance  
-1. **Harnessing Fire (pre-1912):** Indigenous fire stewardship sustained ecosystems.  
+1. **Harnessing Fire (pre-1912):** Indigenous fire stewardship sustained ecosystems and livelihoods.  
 2. **Controlling Fire (1912–1975):** Colonial suppression, “fire as the enemy.”  
 3. **Emulating Fire (1976–1995):** Recognition of fire’s ecological role; limited prescribed burning.  
 4. **Siloing Fire (1995–2017):** Fire (BCWS) separated from forestry; catastrophic fires exposed system gaps.  
 5. **Coexisting with Fire (2017–present):** Push for proactive, collaborative governance with Indigenous leadership and community engagement.  
 
----
-
 ## Current Priorities  
-- **Fuel management:** thinning, prescribed burning, cultural burning.  
+- **Fuel management:** thinning, prescribed burning, Indigenous-led cultural burning.  
 - **FireSmart:** community-level WUI risk reduction.  
 - **Landscape planning:** integrating fire risk into broader forest management.  
-- **Reconciliation:** advancing Indigenous fire stewardship and co-governance.  
+- **Reconciliation:** advancing Indigenous fire and land stewardship and co-governance.  
 - **Policy change:** potential FRPA/Wildfire Act reforms to embed fire risk reduction.  
 
 
@@ -47,10 +46,19 @@ The diagram below visually illustrates the interconnections among critical compo
 graph LR
     A[Wildfire in BC Forest Management]:::center
 
-    subgraph Legislation
-        L1[Forest Act]
-        L2[Forest and Range Practices Act]
-        L3[Wildfire Act & Regs]
+    subgraph GovernanceHistory["History of Fire Governance"]
+        direction LR
+        H1["Harnessing Fire 
+            (pre-1912)"]
+        H2["Controlling Fire
+            (1912–1975)"]
+        H3["Emulating Fire
+            (1976–1995)"]
+        H4["Siloing Fire
+            (1995–2017)"]
+        H5["Coexisting with Fire
+            (2017–present)"]
+        H1 --> H2 --> H3 --> H4 --> H5
     end
 
     subgraph Governance
@@ -67,19 +75,10 @@ graph LR
         PG ~~~ G5
     end
 
-    subgraph GovernanceHistory["History of Fire Governance"]
-        direction LR
-        H1["Harnessing Fire 
-            (pre-1912)"]
-        H2["Controlling Fire
-            (1912–1975)"]
-        H3["Emulating Fire
-            (1976–1995)"]
-        H4["Siloing Fire
-            (1995–2017)"]
-        H5["Coexisting with Fire
-            (2017–present)"]
-        H1 --> H2 --> H3 --> H4 --> H5
+    subgraph Legislation
+        L1[Forest Act]
+        L2[Forest and Range Practices Act]
+        L3[Wildfire Act & Regs]
     end
 
     subgraph Strategies["Current Strategies"]
@@ -91,9 +90,9 @@ graph LR
         S6[Policy Reform]
     end
 
-    Legislation --> A
-    Governance --> A
     GovernanceHistory --> A
+    Governance --> A
+    Legislation --> A
     Strategies --> A
 
     classDef center stroke:#11,stroke-width:4px;
