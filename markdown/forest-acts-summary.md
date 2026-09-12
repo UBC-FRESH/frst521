@@ -30,7 +30,7 @@ Governs **how forest and range activities are conducted**.  Establishes a result
 
 **Key Components**
 - **Planning**: Forest Landscape Plans (new), Forest Stewardship Plans (FSPs), site-level plans.  
-- **Government Objectives**: Soils, water, fish, biodiversity, wildlife, cultural heritage, recreation, range resources.  
+- **Government Objectives**: 11 resource values foresters must manage for — biodiversity, cultural heritage, fish/riparian, forage and associated plant communities, recreation, resource features, soils, timber, visual quality, water quality, wildlife.
 - **Forest Practices**: Harvesting, roads, silviculture, regeneration, seed use, wildfire response.  
 - **Range Practices**: Range use/stewardship plans for grazing and hay.  
 - **Compliance & Enforcement**: Inspections, audits, penalties, stop-work orders.  
